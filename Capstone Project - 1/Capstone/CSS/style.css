@@ -1,0 +1,295 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+.entire-body {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.homepage-ribbon {
+    height: 100px;
+    width: 90%;
+    position: fixed;
+    background-color: white;
+    opacity: 1;
+}
+.homepage-ribbon-text {
+    width: 50%;
+    height: 100px;
+    float: left;
+    color: black;
+    font-family: Roboto, sans-serif ;
+    font-size: 30px;
+    margin-left: 3%;
+}
+.three-dot-menu {
+    float: right;
+    margin-right: 3%;
+    margin-top: 33px;
+    margin-bottom: 33px;
+}
+.gap-fixed {
+    height: 100px;
+    width: 100%;
+}
+.home-page-bg-image {
+    background-image: url("images/home-page-background.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.home-page-title {
+    width: 30%;
+    color: white;
+    font-family: roboto, arial, sans-serif;
+    font-style: bold;
+    font-size: 75px;
+    text-align: right;
+    font-weight: bolder;
+    margin: 0% 0% 0% 0%;
+    padding-top: 150px;
+    padding-left: 67%;
+    padding-bottom: 150px;
+}
+.home-page-text {
+    color: white;
+    font-family: roboto, arial, sans-serif;
+    font-size: 20px;
+    width: 70%;
+    padding-left: 27%;
+    margin-bottom: 0px;
+    padding-bottom: 100px;
+}
+.home-page-three-image-group-bg {
+    width: 100%;
+    height: 400px;
+    background-color: #34421d;
+}
+.home-page-three-image-group {
+    width: 100%;
+    float: left;
+    padding-top: 90px;
+}
+#image-3-1, #image-3-2, #image-3-3 {
+    width: 30%;
+    float: left;
+    padding: 0% 1.5% 0% 1.5%;
+    margin: 0px;
+}
+.dream-house {
+    width: 100%;
+    height: 863px;
+}
+.dream-house-head {
+    font-family: roboto, arial, sans-serif;
+    font-size: 50px;
+    color: #6e8448;
+    text-align: center;
+    font-weight: bold;
+}
+.dream-house-gp-1 {
+    height: 705px;
+    width: 100%;
+    background-color: #2e3329;
+    font-family:  roboto, arial, sans-serif;
+    color: #c19433;
+    float: left;
+}
+#image-4 {
+    width: 564px;
+    height: 705px;
+    float: left;
+}
+.dream-house-gp-1 ul {
+    width: 500px;
+    float: left;
+    margin: 100px 0px 50px 50px;
+    list-style-type: none;
+}
+.text-homepage-image-3-2-u {
+    color:#c19433;
+}
+.text-homepage-image-3-2 p {
+    font-size: 20px;
+    line-height: 1.5;
+}
+h3 {
+    font-size: 50px;
+    line-height: 1.5;
+}
+.text-design-challenge {
+    margin-top: 20px;
+    width: 100%;
+    overflow: auto;
+    align-items: center;
+}
+.text-design-challenge-head {
+    font-family: roboto, arial, sans-serif;
+    font-size: 50px;
+    color: #34421d;
+    font-weight: bold;
+    overflow: auto;
+    height: 100x;
+    text-align: center;
+}
+.text-design-challenge-matter {
+    font-family: roboto, arial, sans-serif;
+    font-size: 20px;
+    color: #34421d;
+    text-align: center;
+    height: 175px;
+    width: 50%;
+    margin-left: 25%;
+}
+#group-1 {
+    width: 100%;
+    height: 708px;
+    background-color: #c19433;
+    padding: 30px 0px 30px 0px;
+    text-align: center;
+}
+#four-image-group {
+    width: 610px;
+    overflow: auto;
+    float: right;
+    padding-left: 200px;
+}
+#group-2 {
+    padding: 50px 100px 50px 100px;
+    float: left;
+    overflow: auto;
+    background-color: white;
+    margin: 0px 0px 0px 100px;
+}
+#group-3 {
+    width: 300px;
+    height: 600px;
+    font-family: roboto, Arial, Helvetica, sans-serif;
+    color: #34421d;
+    overflow: auto;
+    float: left;
+}
+#group-3-head {
+    font-size: 50px;
+    font-style: bold;    
+}
+#group-3-text {
+    font-size: 20px;
+    line-height: 1.5;
+}
+.second-readmore {
+    font-family: roboto, Arial, Helvetica, sans-serif;
+    color: #34421d;
+}
+#below-four-image-group-text {
+    font-family: roboto, arial, sans-serif;
+    font-size: 40px;
+    color: #34421d;
+    text-align: center;
+    overflow: auto;
+    font-weight: bold;
+    width: 75%;
+    padding: 5% 12.5% 5% 12.5%;
+    margin: 0px;
+
+}
+#below-four-image-group {
+    background-color:#f2f2f2;
+}
+.four-line-text {
+    float: left;
+    padding: 50px;
+    height: 400px;
+}
+.four-line-text-image {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    float: right;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+}
+.four-line-text-list {
+    width: 300px;
+    float: left;
+}
+.four-line-text-list ul {
+    font-family: roboto, arial, sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+    width: 300px;
+    line-height: 2;
+    height: 150px;
+    margin: 200px 0px 100px 100px;   
+}
+.single-image-div {
+    background-image: url("images/image-10.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+.good-work-text {
+    font-size: 50px;
+    font-family: roboto, Arial, sans-serif;
+    color: #34421d;
+    text-align: center;
+}
+#image-12 {
+    border-radius: 50%;
+}
+.learn-more {
+    width: 100%;
+    background-color: #f2f6f1;
+    font-family: roboto, arial, sans-serif;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+    overflow: auto;
+}
+button {
+    border-color: black;
+    border-width: 2px;
+    padding: 10px;
+    background-color: #f2f6f1;
+}
+.learn-more ul {
+    margin-top: 30px;
+    list-style-type: none;
+}
+.learn-more p {
+    font-size: 20px;
+    font-weight: lighter;
+}
+.footer {
+    width: 100%;
+    background-color: #34421d;
+}
+.footer-list {
+    text-align: center;
+    height: 100px;
+    font-family: roboto, arial, sans-serif;
+    color: white;
+}
+.footer ul {
+    padding-top: 50px;
+}
+.footer li {
+    display: inline;
+    overflow: auto;
+    padding: 20px;
+    font-size: 20px;
+}
+.footer p {
+    text-align: center;
+    height: 100px;
+    font-family: roboto, arial, sans-serif;
+    color: white;
+    font-size: 20px;
+}
